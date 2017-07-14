@@ -403,3 +403,5 @@ You can select and let percol to output multiple candidates by `percol.command.t
 ## Z Shell support
 
 A zsh completing-function for percol is available in https://github.com/mooz/percol/blob/master/tools/zsh/_percol .
+
+## test for magit
